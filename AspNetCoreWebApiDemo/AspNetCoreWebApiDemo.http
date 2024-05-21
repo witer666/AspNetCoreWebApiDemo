@@ -1,0 +1,6 @@
+@AspNetCoreWebApiDemo_HostAddress = https://localhost:7014
+###
+
+GET {{AspNetCoreWebApiDemo_HostAddress}}/todo/Index
+
+###
